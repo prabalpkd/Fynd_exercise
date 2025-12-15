@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
